@@ -1,6 +1,6 @@
 define({
   root: ({
-    _themeLabel: "Demo Theme",
+    _themeLabel: "Zerinthia Theme",
     _layout_default: "Default Layout",
     _layout_right: "Right Layout"
   }),
