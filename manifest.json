@@ -5,7 +5,7 @@
   "panels": [
     {
       "name": "SimpleBorderPanel",
-      "description": "This is a panel with a border"
+      "description": "Este es un panel sin borde"
     }
   ],
   "styles": [
